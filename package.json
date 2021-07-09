@@ -1,10 +1,10 @@
 {
   "name": "ivue-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "ivue": "./bin/cli.js"
+    "ivue": "./bin/cli.js" 
   },
   "files": [
     "bin",
